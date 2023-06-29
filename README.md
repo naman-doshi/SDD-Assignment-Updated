@@ -2,7 +2,7 @@
 
 UPDATED with a more current bardAPI version, 29 June 2023
 
-A Software Design & Development multiple-choice quiz game, available for installation at [https://github.com/naman-doshi/SDD-Assignment-Y11](https://github.com/naman-doshi/SDD-Assignment-Y11).
+A Software Design & Development multiple-choice quiz game, available for installation at [https://github.com/naman-doshi/SDD-Assignment-UPDATED](https://github.com/naman-doshi/SDD-Assignment-UPDATED).
 
 ---
 
@@ -29,7 +29,7 @@ If you do not already have Python installed, please download the latest version 
 
 ## Downloading
 
-[https://github.com/naman-doshi/SDD-Assignment-Y11](https://github.com/naman-doshi/SDD-Assignment-Y11)
+[https://github.com/naman-doshi/SDD-Assignment-UPDATED](https://github.com/naman-doshi/SDD-Assignment-UPDATED)
 
 Please visit the link above, click the green “Code” button, and download the repository as a ZIP file.
 
@@ -49,7 +49,7 @@ Once the file is downloaded, unzip it with any tool of your choice.
 
 ## Running the Game
 
-Type the following commands in your terminal window, making sure you are inside the folder titled SDD-Assignment-Y11-master.
+Type the following commands in your terminal window, making sure you are inside the folder titled SDD-Assignment-UPDATED-master.
 
 ```bash
 pip3 install -r requirements.txt
@@ -108,4 +108,4 @@ Directly below it is the the current question (bolded), and the four answer opti
 
 The ending page depicts your final score and the number of questions answered correctly. After each game, the result is saved to the file report.txt.
 
-To see the file, navigate to **SDD-Assignment-Y11-master/server/report.txt**
+To see the file, navigate to **SDD-Assignment-UPDATED-master/server/report.txt**
